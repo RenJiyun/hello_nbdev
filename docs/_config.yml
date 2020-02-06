@@ -3,7 +3,7 @@ output: web
 topnav_title: hello_nbdev
 site_title: hello_nbdev
 company_name: Your Name or Company Name
-description: 第一个nbdev项目
+description: 绗竴涓猲bdev椤圭洰
 # Set to false to disable KaTeX math
 use_math: true
 # Add Google analytics id if you have one and want to use it here
